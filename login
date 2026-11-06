@@ -1,4 +1,4 @@
 Login Feature
-Username: FeatureUser
+Username: FeatureBranchUser
 Status: Testing
 
